@@ -16,6 +16,3 @@ O curso de JavaScript ensina desde os conceitos básicos até tópicos avançado
 Se você quiser contribuir, sinta-se à vontade para fazer um fork deste repositório e enviar um pull request com suas melhorias e sugestões.
 
 ---
-
-Este repositório faz parte do aprendizado contínuo da comunidade tech!
-
